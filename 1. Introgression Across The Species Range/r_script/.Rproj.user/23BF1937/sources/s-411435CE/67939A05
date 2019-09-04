@@ -1,0 +1,33 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1567601854650.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "67939A05",
+    "lastKnownWriteTime" : 58,
+    "last_content_update" : 1567601854650,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "cacheKey" : "938AAAA1",
+        "caption" : "aocol",
+        "contentUrl" : "grid_resource/gridviewer.html?env=&obj=aocol&cache_key=938AAAA1",
+        "displayedObservations" : "7",
+        "environment" : "",
+        "expression" : "aocol",
+        "object" : "aocol",
+        "preview" : "0",
+        "totalObservations" : "7",
+        "variables" : "1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_dataframe"
+}
