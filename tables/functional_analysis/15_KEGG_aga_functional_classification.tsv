@@ -1,0 +1,5 @@
+Genes	Process~name	num_of_Genes	gene_group	percentage%	P-value	Benjamini and Hochberg (FDR)	 Hommel singlewise process	Bonferroni single-step process	Hommel singlewise process	Hochberg step-up process	Benjamini and Yekutieli
+AgaP_AGAP001050;	aga00532~Glycosaminoglycan_biosynthesis	1	7	14.2857142857143	0.998900549725137	0.998900549725137	0.998900549725137	1	0.998900549725137	0.998900549725137	1
+AgaP_AGAP001050;	aga01100~Metabolic_pathways	1	896	0.111607142857143		0	0	0		0	0
+AgaP_AGAP001082;	aga04142~Lysosome	1	76	1.31578947368421		0	0	0		0	0
+AgaP_AGAP001035;	aga04150~mTOR_signaling_pathway	1	83	1.20481927710843		0	0	0		0	0
